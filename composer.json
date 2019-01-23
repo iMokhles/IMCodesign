@@ -1,0 +1,16 @@
+{
+    "name": "imokhles/im-codesign",
+    "description": "codesign ipa without apple's hardware written with PHP",
+    "type": "library",
+    "require": {
+        "php": ">=5.4",
+        "nategood/commando": "^0.3.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "iMokhles",
+            "email": "mokhleshussien@aol.com"
+        }
+    ]
+}
